@@ -1,4 +1,4 @@
-package io.github.cathedralmc.heartbeat.custom.armor;
+package io.github.heartbeatmc.heartbeat.custom.armor;
 
 import net.minecraft.sounds.SoundEvent;
 import net.minecraft.world.entity.EquipmentSlot;
